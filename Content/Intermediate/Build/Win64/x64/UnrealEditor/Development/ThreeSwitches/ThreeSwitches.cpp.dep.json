@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\onedrive\\documents\\akilan projects\\game dev\\poe\\part 1\\threeswitches\\source\\threeswitches\\threeswitches.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\onedrive\\documents\\akilan projects\\game dev\\poe\\part 1\\threeswitches\\intermediate\\build\\win64\\x64\\threeswitcheseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\onedrive\\documents\\akilan projects\\game dev\\poe\\part 1\\threeswitches\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\threeswitches\\definitions.threeswitches.h",
+            "c:\\users\\user\\onedrive\\documents\\akilan projects\\game dev\\poe\\part 1\\threeswitches\\source\\threeswitches\\threeswitches.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
