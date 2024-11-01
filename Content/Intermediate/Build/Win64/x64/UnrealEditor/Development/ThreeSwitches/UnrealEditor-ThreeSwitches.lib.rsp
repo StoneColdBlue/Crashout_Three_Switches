@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThreeSwitches.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\OneDrive\Documents\Akilan Projects\Game Dev\POE\Part 1\ThreeSwitches\Intermediate\Build\Win64\x64\ThreeSwitchesEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\OneDrive\Documents\Akilan Projects\Game Dev\POE\Part 1\ThreeSwitches\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreeSwitches\ThreeSwitches.cpp.obj"
+"C:\Users\user\OneDrive\Documents\Akilan Projects\Game Dev\POE\Part 1\ThreeSwitches\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreeSwitches\Default.rc2.res"
+/OUT:"C:\Users\user\OneDrive\Documents\Akilan Projects\Game Dev\POE\Part 1\ThreeSwitches\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreeSwitches\UnrealEditor-ThreeSwitches.lib"
